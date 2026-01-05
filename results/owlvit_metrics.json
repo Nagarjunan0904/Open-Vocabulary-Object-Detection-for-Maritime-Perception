@@ -1,0 +1,262 @@
+[
+    {
+        "image": "0024.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.01904296875
+    },
+    {
+        "image": "0030.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.0353085994720459
+    },
+    {
+        "image": "0032.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.01737833023071289
+    },
+    {
+        "image": "0033.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.0330355167388916
+    },
+    {
+        "image": "0044.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.017817258834838867
+    },
+    {
+        "image": "0045.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.029924631118774414
+    },
+    {
+        "image": "0049.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.16626887023448944,
+        "max_confidence": 0.16626887023448944,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.031064987182617188
+    },
+    {
+        "image": "0050.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.029055356979370117
+    },
+    {
+        "image": "0052.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.028327465057373047
+    },
+    {
+        "image": "0055.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.17938674986362457,
+        "max_confidence": 0.17938674986362457,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.020384788513183594
+    },
+    {
+        "image": "0057.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.2285006195306778,
+        "max_confidence": 0.2285006195306778,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.03705191612243652
+    },
+    {
+        "image": "0059.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.16331195831298828,
+        "max_confidence": 0.16331195831298828,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.022147417068481445
+    },
+    {
+        "image": "0064.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.18520919978618622,
+        "max_confidence": 0.18520919978618622,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.030235767364501953
+    },
+    {
+        "image": "0066.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.026003360748291016
+    },
+    {
+        "image": "0071.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.02506542205810547
+    },
+    {
+        "image": "0077.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.029053688049316406
+    },
+    {
+        "image": "0079.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.16371266543865204,
+        "max_confidence": 0.16371266543865204,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.02528548240661621
+    },
+    {
+        "image": "0082.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.17050801217556,
+        "max_confidence": 0.17050801217556,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.03104567527770996
+    },
+    {
+        "image": "0087.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.1761041283607483,
+        "max_confidence": 0.1761041283607483,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.025555849075317383
+    },
+    {
+        "image": "0102.jpg",
+        "num_detections": 1,
+        "avg_confidence": 0.16586315631866455,
+        "max_confidence": 0.16586315631866455,
+        "detections_per_class": {
+            "boat": 1
+        },
+        "inference_time": 0.030043840408325195
+    },
+    {
+        "image": "0108.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.02804398536682129
+    },
+    {
+        "image": "0110.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.018788576126098633
+    },
+    {
+        "image": "0114.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.03253960609436035
+    },
+    {
+        "image": "0116.jpg",
+        "num_detections": 2,
+        "avg_confidence": 0.15939557552337646,
+        "max_confidence": 0.16371266543865204,
+        "detections_per_class": {
+            "boat": 2
+        },
+        "inference_time": 0.01930546760559082
+    },
+    {
+        "image": "0124.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.03171968460083008
+    },
+    {
+        "image": "0129.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.025551795959472656
+    },
+    {
+        "image": "0169.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.017024517059326172
+    },
+    {
+        "image": "0177.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.03152155876159668
+    },
+    {
+        "image": "0182.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.022539854049682617
+    },
+    {
+        "image": "0188.jpg",
+        "num_detections": 0,
+        "avg_confidence": 0.0,
+        "max_confidence": 0.0,
+        "detections_per_class": {},
+        "inference_time": 0.0318140983581543
+    }
+]

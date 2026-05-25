@@ -1,0 +1,83 @@
+# ─── IDE ──────────────────────────────────────────────────────
+.idea/
+.vscode/
+
+# ─── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+wheels/
+
+# ─── Virtual environments ─────────────────────────────────────
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ─── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ─── Model weights (large binary files, re-downloadable) ──────
+*.pt
+*.pth
+*.onnx
+*.trt
+*.engine
+
+# ─── Generated output folders ─────────────────────────────────
+results/
+demo_outputs/
+notebooks/results/
+notebooks/runs/
+
+# ─── Ultralytics training runs (auto-generated) ───────────────
+# Keep runs/yolov8m_stable/weights/best.pt manually if needed
+# runs/                  ← uncomment to ignore all runs
+
+# ─── Reports (keep CSVs/JSONs, ignore PNGs) ───────────────────
+reports/*.png
+
+# ─── Data (large image folders, keep annotations) ─────────────
+data/images/
+data/extracted/
+data/raw/
+data/labels/
+
+# ─── Temp files ───────────────────────────────────────────────
+temp_uploaded.jpg
+*.log
+*.tmp
+
+# ─── GroundingDINO build artifacts ───────────────────────────
+GroundingDINO/build/
+GroundingDINO/groundingdino.egg-info/
+GroundingDINO/__pycache__/
+
+# ─── Misc ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.spec
+*.manifest
+pip-log.txt
+.coverage
+.pytest_cache/
+.mypy_cache/
+.venv/
+*.pt
+*.pth
+
+models/dino_results/
+models/owlvit_results/
+models/yolo_results/
+models/language_demo/
+data/modd-master.zip
+FETCH_HEAD

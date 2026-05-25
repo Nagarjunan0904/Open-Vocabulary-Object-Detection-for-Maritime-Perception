@@ -1,0 +1,26 @@
+[
+    {
+        "Model": "YOLOv8m",
+        "num_images": 50,
+        "num_detections": 94,
+        "avg_confidence": 0.6796653422903507,
+        "max_confidence": 0.9907026290893555,
+        "avg_inference_time_ms": 24.30215581893921
+    },
+    {
+        "Model": "OWL-ViT",
+        "num_images": 50,
+        "num_detections": 30,
+        "avg_confidence": 0.1425559066236019,
+        "max_confidence": 0.2699987292289734,
+        "avg_inference_time_ms": 47.90497360229492
+    },
+    {
+        "Model": "GroundingDINO",
+        "num_images": 50,
+        "num_detections": 200,
+        "avg_confidence": 0.41127763509750365,
+        "max_confidence": 0.8930116891860962,
+        "avg_inference_time_ms": 267.99597015380857
+    }
+]

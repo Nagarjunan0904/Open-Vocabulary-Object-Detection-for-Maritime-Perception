@@ -1,0 +1,8 @@
+path: D:/Sem3/CS581B_Robot_Perception/Project/Implementation/data
+train: D:/Sem3/CS581B_Robot_Perception/Project/Implementation/data/images/train
+val: D:/Sem3/CS581B_Robot_Perception/Project/Implementation/data/images/val
+test: D:/Sem3/CS581B_Robot_Perception/Project/Implementation/data/images/val
+
+nc: 1
+names:
+  0: obstacle

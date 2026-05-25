@@ -1,0 +1,2 @@
+num_images,num_detections,avg_confidence,max_confidence,avg_inference_time_ms
+5,9,0.531002144018809,0.7205272912979126,182.89020957946778

@@ -1,0 +1,40 @@
+OpenVocab_ASV/
+│
+├── data/
+│   ├── raw/
+│   │   ├── MaSTr1325_images_512x384.zip
+│   │   ├── MODD.zip
+│   │   └── MODS.zip
+│   ├── processed/
+│   │   ├── train/
+│   │   ├── val/
+│   │   └── test/
+│   └── annotations/
+│       ├── mast_COCO.json
+│       ├── modd_COCO.json
+│       └── mods_COCO.json
+│
+├── notebooks/
+│   ├── 01_data_preprocessing.ipynb
+│   ├── 02_yolov8_baseline.ipynb
+│   ├── 03_owlvit_groundingdino.ipynb
+│   ├── 04_evaluation_visualization.ipynb
+│   └── 05_language_query_demo.ipynb
+│
+├── scripts/
+│   ├── coco_conversion.py
+│   ├── evaluate_metrics.py
+│   ├── visualize_results.py
+│   └── app_streamlit.py
+│
+├── models/
+│   ├── yolov8_baseline.pt
+│   ├── owlvit_results/
+│   └── groundingdino_results/
+│
+├── reports/
+│   ├── figures/
+│   ├── metrics.csv
+│   └── final_report.pdf
+│
+└── README.md

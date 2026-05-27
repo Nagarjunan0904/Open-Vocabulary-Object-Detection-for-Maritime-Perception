@@ -1,6 +1,6 @@
 # Open-Vocabulary Object Detection for Autonomous Surface Vessels
 
-**Nagarjunan Saravanan** · Binghamton University, SUNY · CS581B Robot Perception
+**Nagarjunan Saravanan**
 
 A multi-model maritime obstacle detection framework comparing **closed-set** (YOLOv8m) and **open-vocabulary** (OWL-ViT, GroundingDINO) detection approaches on real maritime datasets, with **TensorRT FP16/INT8 optimization** for edge deployment on autonomous surface vessels (ASVs).
 

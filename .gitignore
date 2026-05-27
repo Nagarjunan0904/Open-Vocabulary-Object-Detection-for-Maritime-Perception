@@ -43,9 +43,6 @@ notebooks/runs/
 # Keep runs/yolov8m_stable/weights/best.pt manually if needed
 # runs/                  ← uncomment to ignore all runs
 
-# ─── Reports (keep CSVs/JSONs, ignore PNGs) ───────────────────
-reports/*.png
-
 # ─── Data (large image folders, keep annotations) ─────────────
 data/images/
 data/extracted/
@@ -74,6 +71,7 @@ pip-log.txt
 .venv/
 *.pt
 *.pth
+*.engine
 
 models/dino_results/
 models/owlvit_results/
@@ -81,3 +79,4 @@ models/yolo_results/
 models/language_demo/
 data/modd-master.zip
 FETCH_HEAD
+CLAUDE.md
